@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Maseto2
-- 👀 I’m interested in cyersecurity
-- 🌱 I’m currently learning cyersecurity
-- 💞️ I’m looking to collaborate on cyersecurity
-- 📫 How to reach me: discord: maseto
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cybersecurity
+- 💞️ I’m looking to collaborate on cybersecurity
+- 📫 How to reach me: LinkedIn: Mateo Riesco
 - ⚡ Fun fact: think wrong and you'll be right
 
 <!---
